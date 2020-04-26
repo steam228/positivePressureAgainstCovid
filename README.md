@@ -1,16 +1,14 @@
 # PositivePressureAgainstCovid
 Positive Positive Against Covid
 
-We are proposing a CPAP portable helmet. It is low cost, comfortable and easily scalable.
+We are proposing a # CPAP portable, low cost and easily scalable helmet, composed by:
 
-It is composed by: 
-
-Head Bubble - with a neck juncture and ring, motor and blower and valves;
-Control System with pressure sensor;
-Extra features for symptoms monitoring: temperature and ECG sensors;
-Safety chamber CO2 concentration 
-Mobile App
-Alert System
+- Head Bubble - with a neck juncture and ring, motor and blower and valves;
+- Control System with pressure sensor;
+- Extra features for symptoms monitoring: temperature and ECG sensors;
+- Safety chamber CO2 concentration 
+- Mobile App
+- Alert System
 
 This device facilitates respiration while avoiding the spread of the virus and with the mobile app allows an easy monitoring of the device and of relevant data regarding the patient health state.
 
