@@ -97,7 +97,7 @@ https://gitlab.cba.mit.edu/pub/coronavirus/pph-ppe
 
 (Arduino) https://github.com/steam228/positivePressureAgainstCovid/tree/master/Arduino
 
-(App)/https://github.com/steam228/positivePressureAgainstCovid/tree/master/Arduino/App
+(App) https://github.com/steam228/positivePressureAgainstCovid/tree/master/Arduino/App
 
 
 ### 7. Customer segments and channels
