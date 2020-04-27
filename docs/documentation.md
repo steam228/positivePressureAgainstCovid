@@ -137,13 +137,15 @@ Finally, we need to find financing and support in order to make possible the sca
 
 ### 10. Team
 
-[insert a presentation about yourself, for example: ]
-
 Carolina Paes de Faria
 Biomedical Engineering Student from Instituto Superior Técnico
 Lisbon, Portugal
 contact: carolinapaesdefaria@gmail.com
 
+Pedro Santos
+Biomedical Engineering Student from Instituto Superior Técnico
+Lisbon, Portugal
+contact: pedromfsantos25@gmail.com
 
 André Rocha
 Product and Interaction Design Professor
@@ -151,7 +153,6 @@ Higher School of Education
 Polytechnic Institute of Lisbon
 Portugal
 arocha@eselx.ipl.pt
-steam228.com
 
 
 
