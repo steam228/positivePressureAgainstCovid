@@ -18,13 +18,13 @@ Also, with the adding of one sensor at the way out we can easily, in the future,
 
 With our project we want to provide a low cost a device, also adaptable to be used in developing countries and critical situations that: 
 
-Minimizes the spread of the corona virus in hospitals environments;
+- Minimizes the spread of the corona virus in hospitals environments;
  
-Reduces the need of ventilators, being possible to use in intermediate stages when a ventilator is not yet needed;
+- Reduces the need of ventilators, being possible to use in intermediate stages when a ventilator is not yet needed;
  
-Minimizes the risk of contamination, facilitating quarantine and self-isolation;
+- Minimizes the risk of contamination, facilitating quarantine and self-isolation;
 
-It is easily monitorized, not only the chamber conditions ut also the patient health state, using a mobile app with a version for doctors and other for the patient.
+- It is easily monitorized, not only the chamber conditions ut also the patient health state, using a mobile app with a version for doctors and other for the patient.
 
 
 
