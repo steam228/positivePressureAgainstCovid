@@ -85,10 +85,12 @@ With our project we want to provide a low cost a device, also adaptable to be us
 
 ### 4. Theory Behind it
 
-[insert theoretical aspects]
+we are updating this part, check this link:
+https://gitlab.cba.mit.edu/pub/coronavirus/pph-ppe
 
 ### 5. Important reference values
 
+we are updating this part, check this link:
 https://gitlab.cba.mit.edu/pub/coronavirus/pph-ppe
 
 ### 6. Current development and tests
