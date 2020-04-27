@@ -89,11 +89,11 @@ With our project we want to provide a low cost a device, also adaptable to be us
 
 ### 5. Important reference values
 
-[insert relevant values such as air pressure required for COVID-19 patients ]
+https://gitlab.cba.mit.edu/pub/coronavirus/pph-ppe
 
 ### 6. Current development and tests
 
-[insert pictures and video of the circuits, chamber, app, etc ]
+(App)[/https://github.com/steam228/positivePressureAgainstCovid/tree/master/Arduino/App]
 
 ### 7. Customer segments and channels
 
